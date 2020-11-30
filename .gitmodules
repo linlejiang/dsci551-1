@@ -1,0 +1,3 @@
+[submodule "dsci551-mysqlcon"]
+	path = dsci551-mysqlcon
+	url = https://github.com/YuRen18/dsci551-mysqlcon.git
