@@ -1,3 +1,6 @@
 [submodule "dsci551-mysqlcon"]
 	path = dsci551-mysqlcon
 	url = https://github.com/YuRen18/dsci551-mysqlcon.git
+[submodule "dsci551-vue"]
+	path = dsci551-vue
+	url = https://github.com/YuRen18/dsci551-vue.git
